@@ -11,5 +11,7 @@ cd build
 ../configure --target-list=riscv64-softmmu  --enable-debug
 make -j4
 sudo make install
-
+cd ../ 
 echo "QEMU is instaled. Only riscv64 architecture is suported."
+
+sudo apt install gcc-riscv64-unknown-elf

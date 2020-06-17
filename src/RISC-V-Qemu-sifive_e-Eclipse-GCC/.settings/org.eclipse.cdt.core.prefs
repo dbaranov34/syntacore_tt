@@ -1,0 +1,11 @@
+doxygen/doxygen_new_line_after_brief=true
+doxygen/doxygen_use_brief_tag=false
+doxygen/doxygen_use_javadoc_tags=true
+doxygen/doxygen_use_pre_tag=false
+doxygen/doxygen_use_structural_commands=false
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.244253252/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.244253252/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.244253252/PATH/value=/opt/riscv64/bin\:/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/usr/games\:/usr/local/games\:/snap/bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.244253252/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.244253252/appendContributed=true
